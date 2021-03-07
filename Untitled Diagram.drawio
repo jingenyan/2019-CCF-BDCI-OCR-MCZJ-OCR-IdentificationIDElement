@@ -1,1 +1,217 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T03:59:54.135Z" agent="5.0 (Macintosh)" version="14.4.4" etag="Od87gV03PmrdP6agdy-F" type="github"><diagram id="e_XkEYiSKzR4GQamaOzF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-07T04:27:23.016Z" agent="5.0 (Macintosh)" etag="YQPzLzsKXAuPc6hmxBwp" version="14.4.4" type="github">
+  <diagram id="e_XkEYiSKzR4GQamaOzF" name="Page-1">
+    <mxGraphModel dx="750" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="892" y="240" width="1068" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontSize=16;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-4" target="wnnOCLY8gwGCgnt1_6UJ-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1780" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontSize=20;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-4" target="wnnOCLY8gwGCgnt1_6UJ-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1780" y="560" />
+              <mxPoint x="1780" y="570" />
+              <mxPoint x="1721" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1655" y="500" width="244" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontSize=16;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-6" target="wnnOCLY8gwGCgnt1_6UJ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1520" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="500" width="268" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-7" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1046" y="787" width="840" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.516;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontSize=16;exitPerimeter=0;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1523" y="787" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1523" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="590" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontStyle=1;fontSize=16;" edge="1" parent="1" target="wnnOCLY8gwGCgnt1_6UJ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1213" y="580" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1213" y="560" />
+              <mxPoint x="1213" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="500.5" width="332" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontSize=16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1212.99" y="722.5" as="sourcePoint" />
+            <mxPoint x="1212.99" y="787.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1212.99" y="772.5" />
+              <mxPoint x="1212.99" y="772.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-13" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1083" y="600.5" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontStyle=1;fontSize=16;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-16" target="wnnOCLY8gwGCgnt1_6UJ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontStyle=1;fontSize=16;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-16" target="wnnOCLY8gwGCgnt1_6UJ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-16" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;体内外探究PQQ调节肠道炎性损伤的作用机制&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;fontStyle=1;fontSize=20;strokeColor=#0C0F14;" vertex="1" parent="1">
+          <mxGeometry x="1232.25" y="330" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.496;exitY=1.006;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontStyle=1;fontSize=16;exitPerimeter=0;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1198.5" y="500" as="targetPoint" />
+            <mxPoint x="1211" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1199" y="480" />
+              <mxPoint x="1199" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-18" value="&lt;span style=&quot;font-weight: 700; background-color: rgb(248, 249, 250); font-size: 16px;&quot;&gt;正常或&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: rgb(248, 249, 250); font-size: 16px;&quot;&gt;Nrf2敲减状态&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="wnnOCLY8gwGCgnt1_6UJ-17">
+          <mxGeometry x="-0.1241" y="2" relative="1" as="geometry">
+            <mxPoint x="13.61" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-19" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;空肠上皮细胞IPEC-J2&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;fontStyle=1;fontSize=16;strokeColor=#090D07;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="420.5" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontSize=16;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-22" target="wnnOCLY8gwGCgnt1_6UJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontSize=20;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-22" target="wnnOCLY8gwGCgnt1_6UJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-22" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;断奶仔猪21日龄&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1564" y="420" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-23" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;对照组&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="510.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-24" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;H&lt;sub style=&quot;font-size: 16px;&quot;&gt;2&lt;/sub&gt;O&lt;sub style=&quot;font-size: 16px;&quot;&gt;2&lt;/sub&gt;组&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="510.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-25" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;H&lt;sub style=&quot;font-size: 16px;&quot;&gt;2&lt;/sub&gt;O&lt;sub style=&quot;font-size: 16px;&quot;&gt;2&lt;/sub&gt;+PQQ组&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1253.25" y="510.5" width="113.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-26" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;细胞活力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=16;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1093" y="610.5" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-27" value="ROS和抗氧化酶水平" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=16;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1133" y="610.5" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-28" value="凋亡蛋白表达" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=16;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1203" y="610.5" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-29" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Nrf2信号通路关键蛋白&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=16;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1263" y="610.5" width="66" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-30" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;PQQ调节小肠上皮细胞氧化还原水平&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="795" width="270" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-31" value="PQQ缓解大肠杆菌诱导肠道氧化和炎性损伤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1330.5" y="795.5" width="319.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-32" value="PQQ抑制炎性损伤介导的凋亡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="793.5" width="220" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.439;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=blockThin;startFill=1;endArrow=none;endFill=0;fontSize=20;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1479.1499999999999" y="849.9370000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-34" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;阐明PQQ 调控Nrf2/ NF-κB /p38信号调节肠道炎性损伤&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1232.25" y="900" width="493.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-35" value="PQQ+ETEC组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1538" y="510" width="108" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-36" value="ETEC组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="510" width="83.75" height="41.88" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-37" value="对照组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="510" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-38" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;LPS组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="510" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-39" value="PQQ+LPS组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1795" y="510" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-40" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;体温抗氧化酶&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=16;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="610" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-41" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;NF-κB信号通路关键蛋白&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=16;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="610" width="55" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-42" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;肠道菌群&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=16;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1446.88" y="610" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-43" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;炎症因子&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="610" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-44" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;肠道形态紧密连接&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="610" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-45" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;生长性能&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1677.5" y="610" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontStyle=1;fontSize=16;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-49" target="wnnOCLY8gwGCgnt1_6UJ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-47" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Go和KEGG分析&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;" vertex="1" connectable="0" parent="wnnOCLY8gwGCgnt1_6UJ-46">
+          <mxGeometry x="-0.2895" y="4" relative="1" as="geometry">
+            <mxPoint x="6" y="-6.07" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontSize=16;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-49" target="wnnOCLY8gwGCgnt1_6UJ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-49" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;DIA蛋白组学&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1713.13" y="622.5" width="133.75" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;fontSize=16;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-51" target="wnnOCLY8gwGCgnt1_6UJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-51" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Tunel染色和凋亡蛋白表达&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1682.5" y="740" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;fontStyle=1;fontSize=16;" edge="1" parent="1" source="wnnOCLY8gwGCgnt1_6UJ-40" target="wnnOCLY8gwGCgnt1_6UJ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-53" value="对照组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="510" width="56.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnnOCLY8gwGCgnt1_6UJ-54" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;dashed=1;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1551" y="590" width="339" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
